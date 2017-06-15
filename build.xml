@@ -1,6 +1,6 @@
 <project>
 
-    <target name="cleanall">
+    <target name="clean">
         <delete dir="build"/>
     </target>
 
